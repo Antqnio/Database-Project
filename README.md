@@ -109,11 +109,3 @@ Refer to the included documentation for full requirements and design rationale.
 
 * **Antonio Querci**
 * **Team Member 2**
-
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
