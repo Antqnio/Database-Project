@@ -107,5 +107,5 @@ Refer to the included documentation for full requirements and design rationale.
 
 ## 👥 Authors
 
+* **Giosuè Ratti**
 * **Antonio Querci**
-* **Team Member 2**
